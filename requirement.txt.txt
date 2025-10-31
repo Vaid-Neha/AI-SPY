@@ -1,0 +1,25 @@
+# Core ML & NLP
+torch
+torchvision
+torchaudio
+transformers
+sentencepiece
+accelerate
+
+# Computer Vision & Image Handling
+pillow
+opencv-python
+requests
+
+# Data & Visualization
+numpy
+pandas
+matplotlib
+
+# Web App Frameworks
+flask
+streamlit
+
+# Optional (for translation & progress tracking)
+tqdm
+huggingface-hub
